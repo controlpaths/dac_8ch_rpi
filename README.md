@@ -26,6 +26,6 @@ The RP2040 PMOD is open-source, so you can use the output files to manufacture y
 
 Remember to change the Surface Finish to **LeadFree HASL** to make your board ROHS compliant.
 
-Then you have to add the PCB Assembly service and upload the [centroid](./kicad/production_files/ohsim_hat_pos.csv) file, and the [BOM](./kicad/output_files/bom.csv). 
+Then you have to add the PCB Assembly service and upload the [centroid](./kicad/production_files/ohsim_hat_pos.csv) file, and the [BOM](./kicad/production_files/bom.csv). 
 
 In a few days, you will receive your board at home. 
